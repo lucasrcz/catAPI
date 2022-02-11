@@ -1,5 +1,5 @@
 // URL da API dentro de uma const para utilizar no código para evitar repetições.
-const BASE_URL = 'https://dog.ceo/api/breeds/image/random';
+const BASE_URL = 'https://dog.ceo/api/breed/dachshund/images/random';
 //Interagindo com o DOM
 const dogBtn = document.getElementById('change-dog');
 const dogImg = document.getElementById('dog');
